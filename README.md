@@ -1,7 +1,4 @@
-### Hi there 👋
-
-<!--
-**RishabhDhawad/RishabhDhawad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello I am Rishabh Dhawad! 👋
 
 Here are some ideas to get you started:
 
@@ -13,4 +10,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Twitter - @RishabhDhawad
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: When free I play with my dog Jimmy
--->
+
