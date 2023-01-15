@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, I am Rishabh Dhawad✨<br><br>♂️ Pronouns (He/Him)<br>📍 I live in Indore, India<br>🧑‍💻I am currently working with technologies based on Javascript and Java.<br>🧵Languages I know: Javascript, Java, Python, PHP, R, C/C++, HTML, CSS. <br><br>🦚 My socials are listed below<br>🔹Twitter at <a href="https://twitter.com/RishabhDhawad" >RishabhDhawad </a> <br> 🔹LinkedIn at <a href="https://www.linkedin.com/in/rishabhdhawad/" >rishabhdhawad</a> <br>🔹Instagram at <a href="https://www.instagram.com/rishabhdhawad/" >rishabhdhawad</a> <br>🔹Mail me at rishabhdhawad29@gmail.com regarding any work or if you just wanna connect
+Hello, I am Rishabh Dhawad✨<br><br>♂️ Pronouns (He/Him)<br>📍 I live in Indore, India<br>🧑‍💻I am currently working with technologies based on Javascript and Java.<br>🧵Languages I know: Javascript, Java, Python, PHP, R, C/C++, HTML, CSS. <br><br>🦚 My socials are listed below<br>🔹Twitter at <a href="https://twitter.com/RishabhDhawad" >RishabhDhawad </a> <br> 🔹LinkedIn at <a href="https://www.linkedin.com/in/rishabhdhawad/" >RishabhDhawad</a> <br>🔹Instagram at <a href="https://www.instagram.com/rishabhdhawad/" >RishabhDhawad</a> <br>🔹Mail me at rishabhdhawad29@gmail.com regarding any work or if you just wanna connect
 
 
 # 💻 Tech Stack:
