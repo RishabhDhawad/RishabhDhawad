@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, I am Rishabh Dhawad✨<br><br>♂️ Pronouns (He/Him)<br>📍 I live in Indore, India<br>🧑‍💻I am currently working with technologies based on Javascript and Java.<br>🧵Languages I know: Javascript, Java, Python, PHP, R, C/C++, HTML, CSS. <br><br>🦚 My socials are listed below<br>🔹Twitter at <a href="https://twitter.com/RishabhDhawad" >RishabhDhawad </a> <br> 🔹LinkedIn at <a href="https://www.linkedin.com/in/rishabhdhawad/" >RishabhDhawad</a> <br>🔹Instagram at <a href="https://www.instagram.com/rishabhdhawad/" >RishabhDhawad</a> <br>🔹Mail me at rishabhdhawad29@gmail.com regarding any work or if you just wanna connect
+Hello, I am Rishabh Dhawad✨<br><br>♂️ Pronouns (He/Him)<br>📍 I live in Indore, India<br>🧑‍💻I am currently working with technologies based on Javascript and Java.<br>🧵Languages I know: Javascript, Java, Python, React Js, Tailwind CSS, C/C++, HTML. <br><br>🦚 My socials are listed below<br>🔹Twitter at <a href="https://twitter.com/RishabhDhawad" >RishabhDhawad </a> <br> 🔹LinkedIn at <a href="https://www.linkedin.com/in/rishabhdhawad/" >RishabhDhawad</a> <br>🔹Instagram at <a href="https://www.instagram.com/rishabhdhawad/" >RishabhDhawad</a> <br>🔹Mail me at rishabhdhawad29@gmail.com regarding any work or if you just wanna connect
 
 
 # 💻 Tech Stack:
@@ -8,5 +8,7 @@ Hello, I am Rishabh Dhawad✨<br><br>♂️ Pronouns (He/Him)<br>📍 I live in 
 ![](https://github-readme-stats-sigma-five.vercel.app/api?username=rishabhdhawad&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rishabhdhawad&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rishabhdhawad&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+[![An image of @rishabhdhawad's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rishabhdhawad)](https://holopin.io/@rishabhdhawad)
 
 ![](https://komarev.com/ghpvc/?username=rishabhdhawad&color=blue)
