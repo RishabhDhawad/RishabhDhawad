@@ -9,6 +9,7 @@ Hello, I am Rishabh Dhawad✨<br><br>♂️ Pronouns (He/Him)<br>📍 I live in 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rishabhdhawad&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rishabhdhawad&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+# 💻 Holopin Dashboard:
 [![An image of @rishabhdhawad's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rishabhdhawad)](https://holopin.io/@rishabhdhawad)
 
 ![](https://komarev.com/ghpvc/?username=rishabhdhawad&color=blue)
