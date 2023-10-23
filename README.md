@@ -7,7 +7,7 @@ Hello, I am Rishabh Dhawad✨<br><br>♂️ Pronouns (He/Him)<br>📍 I live in 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats-sigma-five.vercel.app/api?username=rishabhdhawad&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![RishabhDhawad's Streak](https://github-readme-streak-stats.herokuapp.com/?user=RishabhDhawad&theme=vue-dark&hide_border=true)
-![RishabhDhawad's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RishabhDhawad&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+![rishabhdhawad's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rishabhdhawad&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 # 💻 Holopin Dashboard:
 [![An image of @rishabhdhawad's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rishabhdhawad)](https://holopin.io/@rishabhdhawad)
