@@ -8,7 +8,4 @@ Hello, I am Rishabh Dhawad✨<br><br>♂️ Pronouns (He/Him)<br>📍 I live in 
 
 ![rishabhdhawad's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rishabhdhawad&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
-# 💻 Holopin Dashboard:
-[![An image of @rishabhdhawad's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rishabhdhawad)](https://holopin.io/@rishabhdhawad)
-
 ![](https://komarev.com/ghpvc/?username=rishabhdhawad&color=blue)
