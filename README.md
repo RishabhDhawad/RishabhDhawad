@@ -10,4 +10,4 @@ Hello, I am Rishabh Dhawad✨<br><br>♂️ Pronouns (He/Him)<br>📍 I live in 
 
 <p align="left"> <a href="https://open.spotify.com/user/21qqlc22u5yvw3wzz4sbzf6li"><img src="https://spotify-recently-played-readme.vercel.app/api?user=21qqlc22u5yvw3wzz4sbzf6li&count=2" alt="Spotify Recently played" target="blank"/></a> </p>
 
-![](https://komarev.com/ghpvc/?username=rishabhdhawad&color=blue)
+
