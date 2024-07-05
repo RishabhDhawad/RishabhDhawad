@@ -9,27 +9,8 @@ Hello, I am Rishabh Dhawad✨<br><br>♂️ Pronouns (He/Him)<br>📍 I live in 
 
 ![rishabhdhawad's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rishabhdhawad&theme=vue-dark&show_icons=true&hide_border=true&langs_count=6&layout=compact)
 
-<h3 align="left">Open-Source Programs 🌍</h3>
 
-<ul>
 
-🌱 Mentor in:
-
-- GirlScript Summer of Code GSSOC'24
-</ul>
-<ul>
-
-🌟 Contributed to:
-
-- Hacktoberfest'24
-
-- Hacktoberfest'23
-
-- Hacktoberfest'22
-
-- GirlScript Summer of Code GSSOC'23
-
-</ul>
 
 
 
