@@ -1,16 +1,48 @@
-<h3 align="left">💫 About Me: </h3> 
-Hello, I am Rishabh Dhawad✨<br><br>♂️ Pronouns (He/Him)<br>📍 I live in Indore, India<br>🧑‍💻I am currently working with technologies based on Javascript and Java.<br>🧵Languages I know: Javascript, Java, Python, React Js, Tailwind CSS, C/C++, HTML. <br><br>🦚 My socials are listed below<br>🔹Twitter at <a href="https://twitter.com/RishabhDhawad" >RishabhDhawad </a> <br> 🔹LinkedIn at <a href="https://www.linkedin.com/in/rishabhdhawad/" >RishabhDhawad</a> <br>🔹Instagram at <a href="https://www.instagram.com/rishabhdhawad/" >RishabhDhawad</a> <br>🔹Mail me at rishabhdhawad29@gmail.com regarding any work or if you just wanna connect
+<!-- <h1 align="center">Hey there 👋, I'm Rishabh Dhawad!</h1> -->
 
+<h3 align="left">👨‍💻 About Me</h3>
+<p align="left">
+Hi, I'm Rishabh Dhawad 👋<br><br>
+- 🔭 I’m currently focused on building projects with Python<br>
+- 🛠️ I’ve worked on Flask Blog App, real-time stock alert systems, face recognition attendance, and more.<br>
+- 🌐 I actively develop with Python and React.js and have experience in integrating backend systems with modern frontend frameworks.<br>
+- 💼 I’ve interned as a Python Developer and React JS Developer, worked on NLP and recommendation systems, and contributed to hackathon-winning applications.<br>
+- 📈 Passionate about data-driven solutions, automation, and building efficient data pipelines using Python.<br>
+- 🚀 On a journey to master full-stack development and build scalable applications.
+</p>
 
-<h3 align="left">💻 Tech Stack: </h3> 
+<h3 align="left">💫 Quick Facts</h3>
+<p align="left">
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-<h3 align="left">📊 GitHub Stats:</h3> 
+- 💬 Programming & Scripting: Python, SQL, JavaScript, C++, Java, HTML/CSS<br>
+- 📊 Data & Analysis Libraries: Pandas, NumPy, SQLAlchemy<br>
+- ⚙️ Tools & Frameworks: Flask, Selenium, React JS, Tailwind CSS, Redux Toolkit<br>
+- 📚 Currently diving deeper into: Data Analytics, ETL automation with Python, and cloud deployment workflows<br>
+</p>
 
-![rishabhdhawad's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rishabhdhawad&theme=vue-dark&show_icons=true&hide_border=true&langs_count=6&layout=compact)
-
-
-
-
-
-
+<h3 align="left">🌟 Projects</h3>
+<div align="left">
+  <ul>
+    <li>
+      <strong><a href="https://github.com/RishabhDhawad/Flask-Blog-App" target="_blank">Flask Blog App</a></strong>: Blog platform with CRUD, auth, and image upload.
+    </li>
+    <li>
+      <strong><a href="https://github.com/RishabhDhawad/Scraping-NSE-India" target="_blank">Market Snapshot (NSE)</a></strong>: Daily email of NSE top gainers and losers using Python automation.
+    </li>
+    <li>
+      <strong><a href="https://github.com/RishabhDhawad/Stock-Market-Analysis" target="_blank">Stock Alert Automation</a></strong>: Sends real-time and daily stock updates via email and WhatsApp.
+    </li>
+    <li>
+      <strong><a href="https://doc-mini-appp.netlify.app/" target="_blank">Docs Mini App</a></strong>: A simple Google Docs clone with real-time editing.
+    </li>
+    <li>
+      <strong><a href="https://github.com/RishabhDhawad/Face-Recognition-Attendance-System" target="_blank">Face Recognition Attendance System</a></strong>: Python app to auto-mark attendance using face detection.
+    </li>
+    <li>
+      <strong><a href="https://stree-vendors.vercel.app/" target="_blank">Stree Vendors</a></strong>: React app connecting women-led local stores with buyers.
+    </li>
+    <li>
+      <strong><a href="https://github.com/RishabhDhawad/ToDo-Redux" target="_blank">To-Do List</a></strong>: React and Redux Toolkit-based task manager.
+    </li>
+  </ul>
+</div>
