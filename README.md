@@ -3,6 +3,7 @@
 <h3 align="left">👨‍💻 About Me</h3>
 <p align="left">
 Hi, I'm Rishabh Dhawad 👋<br><br>
+  
 - 🔭 I’m currently focused on building projects with Python<br>
 - 🛠️ I’ve worked on Flask Blog App, real-time stock alert systems, face recognition attendance, and more.<br>
 - 🌐 I actively develop with Python and React.js and have experience in integrating backend systems with modern frontend frameworks.<br>
@@ -47,3 +48,20 @@ Hi, I'm Rishabh Dhawad 👋<br><br>
     </li>
   </ul>
 </div>
+
+
+
+<h3 align="left">🌐 Connect with Me</h3>
+<p align="left">
+<a href="mailto:rishabhdhawad@gmail.com">Email</a> •
+<a href="https://github.com/RishabhDhawad">GitHub</a> •
+<a href="https://www.linkedin.com/in/rishabhdhawad/">LinkedIn</a> •
+<a href="https://twitter.com/RishabhDhawad">Twitter</a> •
+<a href="https://leetcode.com/u/RishabhDhawad/">Leetcode</a> •
+<a href="https://www.geeksforgeeks.org/user/rishabhdhawad/">Geeks For Geeks</a> •
+<a href="https://www.hackerrank.com/profile/rishabhdhawad">Hacker Rank</a> •
+<a href="https://www.naukri.com/code360/profile/rishabhdhawad">Code Studio</a> •
+<a href="https://wakatime.com/@rishabhdhawad">Waka Time</a> •
+<a href="https://monkeytype.com/profile/RishabhDhawad">Monkey Type</a> •
+<a href="https://www.holopin.io/@rishabhdhawad#">Holopin</a> 
+</p>
