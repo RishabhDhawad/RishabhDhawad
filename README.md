@@ -2,7 +2,8 @@
 
 <h3 align="left">👨‍💻 About Me</h3>
 <p align="left">
-Hi, I'm Rishabh Dhawad 👋<br><br>
+Hi, I'm Rishabh Dhawad 👋<br>
+  
 - 🔭 I’m currently focused on building projects with Python<br>
 - 🛠️ I’ve worked on Flask Blog App, real-time stock alert systems, face recognition attendance, and more.<br>
 - 🌐 I actively develop with Python and React.js and have experience in integrating backend systems with modern frontend frameworks.<br>
@@ -46,7 +47,7 @@ Hi, I'm Rishabh Dhawad 👋<br><br>
       <strong><a href="https://stree-vendors.vercel.app/" target="_blank">Stree Vendors</a></strong>: React app connecting women-led local stores with buyers.
     </li>
     <li>
-      <strong><a href="https://github.com/RishabhDhawad/todo-list" target="_blank">To-Do List</a></strong>: React and Redux Toolkit-based task manager.
+      <strong><a href="https://github.com/RishabhDhawad/chatgpt-clone" target="_blank">AI Chat App</a></strong>: A full-stack AI Chat Application that streams responses in real-time using Ollama's LLMs like llama3 or gemma:1b.
     </li>
   </ul>
 </div>
