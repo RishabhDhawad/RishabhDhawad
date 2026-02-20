@@ -42,49 +42,31 @@ Hi, I'm Rishabh Dhawad 👋
 - ⚡ Improving performance for large-scale time-series computations  
 
 
----
+# 🚀 Projects Portfolio
 
-## 🚀 Projects
-
-- 📊 **Stock Market Analytics Platform (In Progress)**  
-  Pattern detection engine with FastAPI + PostgreSQL backend, multi-timeframe scanning, and structured financial data storage  
-
-- 📝 **[Blogify React Flask App](https://github.com/RishabhDhawad/Blogify-React-Flask)**  
-  Full-stack blog platform (React + Flask) with authentication, CRUD, and image uploads  
-
-- 📚 **[Flask Blog App](https://github.com/RishabhDhawad/BlogPost)**  
-  Server-rendered blog application with authentication and media handling  
-
-- 📈 **[Market Snapshot (NSE)](https://github.com/RishabhDhawad/Scraping-NSE-India)**  
-  Automated NSE top gainers & losers daily email system using Python  
-
-- 🚨 **[Stock Alert Automation](https://github.com/RishabhDhawad/Stock-Market-Analysis)**  
-  Real-time and daily stock updates via Email and WhatsApp integrations  
-
-- 🎭 **[Face Recognition Attendance System](https://github.com/RishabhDhawad/Face-Recognition-Attendance-System)**  
-  Python-based automated attendance system using face detection  
-
-- 🛍️ **[Stree Vendors](https://stree-vendors.vercel.app/)**  
-  React platform connecting women-led local stores with customers  
-
-- 🤖 **[AI Chat App](https://github.com/RishabhDhawad/chatgpt-clone)**  
-  Full-stack AI chat application streaming responses using Ollama (Llama3, Gemma)  
-
-- 📄 **[Docs Mini App](https://doc-mini-appp.netlify.app/)**  
-  Lightweight Google Docs clone with real-time editing capability  
-
+- 📊 **Stock Market Analytics Platform** – Pattern detection engine built with FastAPI + PostgreSQL featuring multi-timeframe scanning and structured financial data architecture.
+- 📝 **[Blogify – React + Flask](https://github.com/RishabhDhawad/Blogify-React-Flask)** – Full-stack blogging platform with authentication, CRUD operations, and image uploads.
+- 📚 **[Flask Blog App](https://github.com/RishabhDhawad/BlogPost)** – Server-rendered blog application with user authentication and media handling.
+- 📈 **[Market Snapshot (NSE)](https://github.com/RishabhDhawad/Scraping-NSE-India)** – Automated NSE top gainers & losers email reporting system using Python.
+- 🚨 **[Stock Alert Automation](https://github.com/RishabhDhawad/Stock-Market-Analysis)** – Real-time and daily stock alerts via Email and WhatsApp integrations.
+- 🎭 **[Face Recognition Attendance System](https://github.com/RishabhDhawad/Face-Recognition-Attendance-System)** – Python-based automated attendance system powered by face detection.
+- 🛍️ **[Stree Vendors](https://stree-vendors.vercel.app/)** – React platform connecting women-led local businesses with customers.
+- 🤖 **[AI Chat Application](https://github.com/RishabhDhawad/chatgpt-clone)** – Full-stack AI chat app with streaming responses using Ollama (Llama3, Gemma).
+- 📄 **[Docs Mini App](https://doc-mini-appp.netlify.app/)** – Lightweight Google Docs clone with real-time collaborative editing.
 
 ---
+### 💡 Tech Focus
+**FastAPI • Flask • PostgreSQL • React • Python • AI Integration • Automation • System Design**
 
+--- 
 ## 🧠 Engineering Interests
 
-- Backend System Design  
-- Financial Data Engineering  
-- High-Performance API Development  
-- Database Optimization & Query Tuning  
-- Automation & Intelligent Systems  
-- Scalable Architecture for Data-Heavy Applications  
-
+- 🏗️ Backend System Design  
+- 📊 Financial Data Engineering  
+- ⚡ High-Performance API Development  
+- 🗄️ Database Optimization & Query Tuning  
+- 🤖 Automation & Intelligent Systems  
+- 🚀 Scalable Architecture for Data-Heavy Applications  
 
 ---
 
