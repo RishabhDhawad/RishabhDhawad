@@ -113,10 +113,15 @@ Hey there! I'm a Full-Stack Software Engineer passionate about building modern w
 * 📄 **[Docs Mini App](https://doc-mini-appp.netlify.app/)** – Collaborative document editor inspired by Google Docs with real-time editing capabilities.
 
 
+
 ## 🏆 Holopin Board
 
 
 [![An image of @rishabhdhawad's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rishabhdhawad)](https://holopin.io/@rishabhdhawad)
+
+## GitHub Activity
+
+![GitHub Contribution Graph](https://gitlyy.vercel.app/api/contribution?username=rishabhdhawad&hide_border=true)
 
 
 
