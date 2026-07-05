@@ -46,13 +46,13 @@ Hey there! I'm a Full-Stack Software Engineer passionate about building modern w
 
 * #### **Frontend Engineer Intern** at **Tech Vraksh**
 
-  `APR 2024 - JUN 2024`
+  `JULY 2024 - DEC 2024`
 
   Built responsive, high-performance React applications with reusable components while collaborating in a Git-driven development environment.
 
 * #### Full Stack Intern at **Allsoft Solutions and Services Pvt. Ltd.**
 
-  `JAN 2024 - MAY 2024`
+  `JAN 2024 - JUNE 2024`
 
   Developed a real-time speech transcription platform, delivering responsive interfaces and seamless live audio-to-text experiences.
 
@@ -65,24 +65,35 @@ Hey there! I'm a Full-Stack Software Engineer passionate about building modern w
 
 ## 🎯 Positions of Responsibility
 
-* #### Core Team Member at **Datacode.in**
+* #### Core Team Member at [DataCode.in](https://datacode.in)
 
   `JAN 2023 - JUN 2026`
 
-  Mentored 100+ students in web development, AI, Git, GitHub, and career development while organizing workshops, hackathons, coding competitions, and community-driven technical events.
+  Mentored ***100+ students*** through technical workshops, coding sessions, and one-on-one guidance in ***Web Development, AI, Git, GitHub,*** and career development. Led the planning and execution of ***hackathons, coding competitions, technical bootcamps,*** and community events while collaborating with ***cross-functional teams*** to foster a strong developer ecosystem.
 
 * #### Student Learning Club Mentor
 
   `2023 - 2026`
 
-  Conducted technical sessions on JavaScript, HTML, CSS, Python, Git, and modern web technologies, helping students strengthen their problem-solving and software engineering skills.
+  Conducted hands-on technical sessions on ***JavaScript, HTML, CSS, Python, Git, GitHub, React,*** and modern web technologies. Guided students through ***real-world projects, debugging, version control,*** and ***software engineering best practices***, helping them build industry-ready development skills.
 
 * #### Hackathon & Community Organizer
 
   `2023 - 2026`
 
-  Organized WittyHacks 3.0 (2023) and WittyHacks 4.0 (2024), one of Central India's largest 36-hour hackathons, collaborating with cross-functional teams on end-to-end operations, coordinating with sponsors and mentors, managing registrations and participant engagement for hundreds of attendees, and strengthening community outreach to create an engaging environment for students to build real-world projects.
+  Organized multiple editions of ***[WittyHacks](https://wittyhacks.in/)***, one of ***Central India's largest 36-hour hackathons***, collaborating with ***cross-functional teams*** to manage ***end-to-end event execution***. Coordinated with ***sponsors, mentors, judges, volunteers,*** and participants while leading ***registrations, logistics, community outreach,*** and ***on-ground operations*** for ***hundreds of attendees***.
 
+  * ###### `WittyHacks 4.0 | 2024`
+
+    Played a key role in organizing ***[WittyHacks 4.0](https://wittyhacks.in/)*** by managing ***participant registrations, sponsor communications, mentor & judge coordination, volunteer management,*** and ***event operations***, ensuring a seamless and engaging hackathon experience.
+
+  * ###### `WittyHacks 3.0 | 2023`
+
+    Contributed to the successful execution of ***[WittyHacks 3.0](https://wittyhacks.in/)*** by coordinating ***registrations, sponsorship activities, mentor engagement, logistics,*** and ***on-ground operations*** while collaborating with multiple teams throughout the event lifecycle.
+
+  * ###### `Technical Workshops | DataCode | 2023 - 2026`
+
+    Organized and delivered multiple technical workshops under ***[DataCode.in](https://datacode.in)*** for junior students, mentoring them in ***Web Development, Programming Fundamentals, Git & GitHub, AI,*** and emerging technologies through ***hands-on sessions, live coding,*** and ***project-based learning***.
 
 ## ❤️ Open Source Contributions
 
@@ -119,7 +130,7 @@ Hey there! I'm a Full-Stack Software Engineer passionate about building modern w
 
 [![An image of @rishabhdhawad's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rishabhdhawad)](https://holopin.io/@rishabhdhawad)
 
-## GitHub Activity
+## 🧑‍💻 GitHub Activity
 
 ![GitHub Contribution Graph](https://gitlyy.vercel.app/api/contribution?username=rishabhdhawad&hide_border=true)
 
