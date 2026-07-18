@@ -10,9 +10,7 @@ Hey there! I'm a Full-Stack Software Engineer passionate about building modern w
   <img src="https://lh3.googleusercontent.com/d/1C0Zx3T2yzT7KIhOZFMxRrIUZNO4O_NGM" width="500" alt="Portfolio Preview" />
 </a>
 
-
 [![Visit My Portfolio](https://img.shields.io/badge/Portfolio-rishabhdhawad.in-38C2FF?logo=googlechrome&logoColor=white)](https://rishabhdhawad.in)
-
 
 ## 👩‍💻 Tech Stack
 
@@ -144,16 +142,17 @@ Hey there! I'm a Full-Stack Software Engineer passionate about building modern w
 
 [![An image of @rishabhdhawad's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rishabhdhawad)](https://holopin.io/@rishabhdhawad)
 
+## 🧑‍💻 GitHub Activity
 
+![GitHub Contribution Graph](https://gitlyy.vercel.app/api/contribution?username=rishabhdhawad&hide_border=true)
 
 ## 💡 Beyond Code
 
-- 📈 Passionate about financial markets and data-driven decision making.
-- 🧠 Enjoy solving complex backend engineering problems.
-- 🏗️ Love designing scalable systems and clean architectures.
-- 🚀 Always exploring better ways to build faster, more reliable software.
-- 📚 Strong believer in continuous learning and engineering excellence.
-
+* 💻 I enjoy turning ideas into products that solve real-world problems.
+* 📈 Passionate about stock markets, automation, and data-driven insights.
+* 🏗️ Interested in scalable system design, APIs, and modern web technologies.
+* 🚀 Always experimenting with new frameworks, AI tools, and developer workflows.
+* 📚 Learning never stops—I enjoy improving my skills one project at a time.
 
 
 ## 🤝 Connect with Me
